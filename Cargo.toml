@@ -1,0 +1,6 @@
+[package]
+name = "tsplib-rs"
+version = "0.1.0"
+authors = ["Eike"]
+
+[dependencies]
